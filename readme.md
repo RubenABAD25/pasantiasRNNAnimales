@@ -18,7 +18,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 You should to do virtual environments
 You should to use Anaconda.
 
-![Aquí la descripción de la imagen por si no carga](https://ricardoromo.co/wp-content/uploads/elementor/thumbs/Banner-Horizontal-entornos_python-ol0j6dtn20mmvxe4onq73ln6kajk02hswa6a5bac6g.jpg)
+![Aquí la descripción de la imagen por si no carga](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
 
 ### You need to install   🔧
 
@@ -28,6 +28,8 @@ https://heartbeat.fritz.ai/neural-networks-on-mobile-deviAces-with-tensorflow-li
 conda create -n tensorflow python==3.6
 conda install tensorflow
 pip install keras
+pip install notebook
+pip install matplotlib
 
 ```
 
