@@ -26,9 +26,8 @@ https://heartbeat.fritz.ai/neural-networks-on-mobile-deviAces-with-tensorflow-li
 
 ```
 conda create -n tensorflow python==3.6
-
-```
 conda install tensorflow
+
 
 ```
 pip install keras
@@ -37,8 +36,7 @@ pip install keras
 
 ## Running of the Application ⚙️
 
-https://www.dropbox.com/s/cp2sxexmo2t9b3r/Entrenamiento.jpg?dl=0
-https://www.dropbox.com/s/3b38w1au0i7iaot/PorcentajePresicion.jpg?dl=0
+https://mega.nz/file/bXZTEAqJ#LgY5ZAB3js0vjzNgu3Aew8PeXmGqslYv_H35U40amYA
 
 
 ### Doin to Test end-to-end 🔩
