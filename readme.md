@@ -36,8 +36,8 @@ pip install matplotlib
 https://mega.nz/file/bXZTEAqJ#LgY5ZAB3js0vjzNgu3Aew8PeXmGqslYv_H35U40amYA
 
 
-### Doin to Test end-to-end 🔩
-https://www.dropbox.com/s/k0178ihzufzgwjk/Resultado.jpg?dl=0
+### Doind to Test end-to-end 🔩
+https://github.com/RubenABAD25/pasantiasRNNAnimales/blob/main/Untitled3.ipynb
 
 ## Deployment 📦
 
