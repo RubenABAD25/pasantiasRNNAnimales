@@ -27,9 +27,6 @@ https://heartbeat.fritz.ai/neural-networks-on-mobile-deviAces-with-tensorflow-li
 ```
 conda create -n tensorflow python==3.6
 conda install tensorflow
-
-
-```
 pip install keras
 
 ```
@@ -57,7 +54,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Channel- Youtube 📖
 
-You can find much more about how to use this project in our video [Video-Youtube](https://youtu.be/qvLOYSiZnyE)
+You can find much more about how to use this project in our video [Video-Youtube](https://mega.nz/file/bXZTEAqJ#LgY5ZAB3js0vjzNgu3Aew8PeXmGqslYv_H35U40amYA)
 
 ## Author ✒️
 
