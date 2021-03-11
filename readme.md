@@ -25,10 +25,10 @@ You should to use Anaconda.
 https://heartbeat.fritz.ai/neural-networks-on-mobile-deviAces-with-tensorflow-lite-a-tutorial-85b41f53230c
 
 ```
-conda create -n py35 python==3.5
+conda create -n tensorflow python==3.6
 
 ```
-pip install tensorflow==2.0
+conda install tensorflow
 
 ```
 pip install keras
