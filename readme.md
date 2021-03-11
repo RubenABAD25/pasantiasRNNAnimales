@@ -30,9 +30,7 @@ conda install tensorflow
 pip install keras
 pip install notebook
 pip install matplotlib
-
 ```
-
 ## Running of the Application ⚙️
 
 https://mega.nz/file/bXZTEAqJ#LgY5ZAB3js0vjzNgu3Aew8PeXmGqslYv_H35U40amYA
